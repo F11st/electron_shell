@@ -12,9 +12,8 @@ Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron'
 
 ## 🖥Video Demo
 
-[![Watch the video](./docs/demo.jpg)](https://djerryz-docs-1258823000.cos.ap-shanghai.myqcloud.com/github/electron_shell/electron_shell_demo.mp4)
+[![Watch the video](./docs/demo.jpg)](https://djerryz-docs-1258823000.cos.accelerate.myqcloud.com/github/electron_shell/electron_shell_demo.mp4)
 
-also: https://djerryz-docs-1258823000.cos.ap-shanghai.myqcloud.com/github/electron_shell/electron_shell_demo.mp4
 
 
 ## ✨ Features
