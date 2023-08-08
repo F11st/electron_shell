@@ -7,7 +7,11 @@
 
 <div align="center">
 Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron's features for command injection and combining it with remote control methods.<br>
-利用Electron桌面程序的白特征执行黑命令，一种隐蔽的远程访问特洛伊木马（RAT）寄生工具。</div>
+利用Electron桌面程序的白特征执行黑命令，一种隐蔽的远程访问特洛伊木马（RAT）寄生工具。
+<br>
+Read More: <a href="https://mp.weixin.qq.com/s/yxdzMyLq4uvSw5kL04mXqA" target="_blank" rel="noopener">[AOH 024]探索将Shell寄生于Electron程序的自动化实现                             </a>
+</div>
+
 
 
 ## 🖥Video Demo
