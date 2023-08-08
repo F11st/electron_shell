@@ -43,15 +43,10 @@ Developing a more covert Remote Access Trojan (RAT) tool by leveraging Electron'
   (**Please note that a simple command call has been implemented here, and some behavior based heuristic checks will still prompt , bypass AV is not a key issue to be addressed in this project**)
 
   - Windows Defender
-
   - avast
-
   - 火绒
-
   - 360
-
   - 腾讯管家
-
   - virustotal
     <img src="./docs/viruscheck.png" alt="" style="max-width: 100%;">
 
